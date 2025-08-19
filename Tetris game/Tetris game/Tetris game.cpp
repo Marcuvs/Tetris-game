@@ -1713,7 +1713,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
                 SetTimer(hWnd, timerId, 1000, 0);
                 SetTimer(hWnd, speedtimerId, speedtimerSpeed, 0);
 
-                PlaySound(L"music.wav", NULL, SND_FILENAME | SND_ASYNC | SND_LOOP);
+                //PlaySound(L"music.wav", NULL, SND_FILENAME | SND_ASYNC | SND_LOOP);
 
 
                 nextblock = std::rand() % 7;
@@ -2997,4 +2997,5 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
         break;
     }
     return (INT_PTR)FALSE;
+
 }
