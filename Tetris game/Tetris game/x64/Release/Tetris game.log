@@ -1,0 +1,106 @@
+﻿  Tetris game.cpp
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(935,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(949,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1205,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1228,78): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1228,78): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1232,51): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1232,51): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1250,55): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1250,55): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1256,82): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1256,82): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1262,55): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1262,55): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1268,86): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1268,86): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1281,55): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1281,55): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1287,82): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1287,82): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1293,55): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1293,55): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1299,82): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1299,82): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1311,55): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1311,55): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1317,82): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1317,82): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1323,55): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1323,55): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1329,82): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1329,82): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1339,51): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1339,51): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1343,78): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1343,78): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1351,51): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1351,51): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1355,78): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1355,78): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1465,78): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1465,78): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1465,142): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1465,142): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1469,78): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1469,78): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1469,142): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1469,142): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1473,78): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1473,78): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1473,142): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1473,142): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1477,77): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1477,77): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1477,141): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1477,141): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1481,79): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1481,79): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1481,143): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1481,143): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1485,79): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1485,79): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1485,143): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1485,143): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1499,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1499,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1503,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1503,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1521,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1521,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1527,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1527,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1533,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1533,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1539,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1539,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1552,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1552,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1558,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1558,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1564,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1564,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1570,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1570,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1582,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1582,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1588,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1588,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1594,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1594,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1600,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1600,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1610,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1610,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1614,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1614,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1622,47): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1622,47): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1626,75): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1626,75): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\marcu\GitHub\DAT154\Tetris game\Tetris game\Tetris game.cpp(1675,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 121 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tetris game.vcxproj -> C:\Users\marcu\GitHub\DAT154\Tetris game\x64\Release\Tetris game.exe
